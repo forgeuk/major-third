@@ -1,0 +1,16 @@
+{
+  "name": "@forge-uk/major-third",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "Forge (forge.uk)",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^3.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forgeuk/major-third.git"
+  },
+  "description": "A collection of preset styles for the Tailwind CSS Typography plugin based on the Major Third scale."
+}
